@@ -1,0 +1,6 @@
+csv/
+*.pdf
+*.numbers
+*.class
+*.xml
+tmp.txt
